@@ -1,4 +1,4 @@
-# ✨SKN02-2nd-5Team✨
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/8597a4f3-20d8-4d7f-8008-2f4238dd32ac)# ✨SKN02-2nd-5Team✨
 
 - 프로젝트 명 : 음악 스트리밍 회사의 고객 이탈 예측 모델 구현 프로젝트 
 
@@ -55,3 +55,6 @@
 - XGBoost
 - 신경망
 
+
+# 👀Clustering
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/03241ed9-a75b-4b22-8e21-b744199644fe)

@@ -57,7 +57,7 @@
 
 
 # 👀Clustering
-![Uploading image.png…]()
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/ebe03fa1-acea-4be1-91d2-28a6d4227851)
 
 
 

@@ -57,7 +57,8 @@
 
 
 # 👀Clustering
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/3d7514b5-4936-4693-9bec-bd5d7c39a9d9)
+![Uploading image.png…]()
+
 
 
 # 모델 성능 평가

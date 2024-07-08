@@ -57,7 +57,8 @@
 
 
 # 👀Clustering
-![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/03241ed9-a75b-4b22-8e21-b744199644fe)
+![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/3d7514b5-4936-4693-9bec-bd5d7c39a9d9)
+
 
 # 모델 성능 평가
 | 모델                 | ROC            |

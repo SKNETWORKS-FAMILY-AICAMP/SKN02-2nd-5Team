@@ -58,3 +58,17 @@
 
 # 👀Clustering
 ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/03241ed9-a75b-4b22-8e21-b744199644fe)
+
+# 모델 성능 평가
+| 모델                 | ROC            |
+|----------------------|-----------------|
+| LogisticRegression   | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/28bb8820-c9e9-4653-a573-c1ac74ca2b3d) |
+| test accuracy | 0.81328 |
+| Randomforest   | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/90827e7a-5f1d-441d-a38b-3d2d97b2cb64)|
+| test accuracy | 0.84554 |
+| XGBoost   | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/a6704b4e-bcdc-484c-a02f-91d6b3e0f138)|
+| test accuracy | 0.847466 |
+| CatBoost   | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/3c196c98-6573-4d15-98e6-9389ca334b0c)|
+| test accuracy | 0.85653 |
+| MLP  | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/127372470/3e933c3b-3dce-4647-bcdb-d5c80a18f9b0)|
+| test accuracy | 0.83002 |

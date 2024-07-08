@@ -23,8 +23,6 @@
 ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-2nd-5Team/assets/169418269/1c2a41ef-ae08-45fc-9bfe-74b268cfc5c2)
 
 
-# 사용된 클래스 
-
 
 # 👀 모델 평가지표 
 
